@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: modelo.FiguraTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.353 s <<< FAILURE! -- in modelo.FiguraTest
+modelo.FiguraTest.testArea -- Time elapsed: 0.191 s <<< ERROR!
+java.lang.UnsupportedOperationException: Not supported yet.
+	at modelo.Figura.area(Figura.java:8)
+	at modelo.FiguraTest.testArea(FiguraTest.java:40)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+
